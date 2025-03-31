@@ -1,0 +1,24 @@
+Custom Command,Windows CMD Equivalent
+jao,cd
+folderbanao,mkdir
+filehatado,del
+copykaro,copy
+hatau,rmdir
+naam_badlo,ren
+dikhayo,dir
+netcheck,ping
+networkinfo,ipconfig
+sabdeletekaro,del /F /Q *.*
+bandkaro,shutdown /s /t 0
+process_dikhayo,tasklist
+process_bandkaro,taskkill /PID
+diskcheck,chkdsk
+clear,cls
+comparekaro,fc
+traceroute,tracert
+findkaro,find
+filebanao,type > filename.txt
+filemelikho,echo "text" > filename.txt
+open_google,start chrome google.com
+open_youtube,start chrome youtube.com
+open,start chrome
